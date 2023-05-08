@@ -1,0 +1,22 @@
+{
+  "name": "07-socket-colas",
+  "version": "1.0.0",
+  "description": "Un servidor de Websockets usando Node, Express y Socket.io",
+  "main": "app.js",
+  "scripts": {
+    "test": "start app"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Javier E. Sáez",
+    "email": "javiersaez1205@gmail.com",
+    "url": "https://github.com/JavierSaezGarcia"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1"
+  }
+}
